@@ -1,0 +1,9 @@
+c:\users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\bin\Debug\inactiveUsersReport.exe.config
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\bin\Debug\inactiveUsersReport.exe
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\bin\Debug\inactiveUsersReport.pdb
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\obj\Debug\inactiveUsersReport.csprojResolveAssemblyReference.cache
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\obj\Debug\inactiveUsersReport.Properties.Resources.resources
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\obj\Debug\inactiveUsersReport.csproj.GenerateResource.Cache
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\obj\Debug\inactiveUsersReport.exe
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\obj\Debug\inactiveUsersReport.pdb
+C:\Users\todorovicd\documents\visual studio 2015\Projects\inactiveUsersReport\inactiveUsersReport\obj\Debug\inactiveUsersReport.frmHome.resources
